@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SpringMaster</string>
+    <string name="cpu_result">Your Device Information : </string>
+    <string name="developer">developed by minlaxz</string>
+    <string name="background_image">Background Image</string>
+</resources>
