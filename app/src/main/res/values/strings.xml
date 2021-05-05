@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">SpringMaster</string>
-    <string name="cpu_result">Your Device Information : </string>
+    <string name="cpu_result"></string>
     <string name="developer">developed by minlaxz</string>
     <string name="background_image">Background Image</string>
+    <string name="check">Check</string>
+    <string name="heading">Your device supported CPU Architectures are as follow.</string>
 </resources>
